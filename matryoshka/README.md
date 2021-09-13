@@ -1,4 +1,7 @@
 Условие в Intern_Matryoshka_.SN.pdf.
+ab_tests_level2.... - исходная таблица из условия
+
+
 
 Первое, что я сделал, это разделил вручную таблицу, данную в задании, на таблицы
 unique_a, totals_a. totals_b, totals_c, totals_d, time. 
